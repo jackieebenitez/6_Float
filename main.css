@@ -1,0 +1,18 @@
+
+.papa, .clearfix {
+	width:200px;
+	height:200px;
+	background-color: pink;
+	margin: 5px 5px 5px 5px;
+	padding: 10px;
+	overflow: auto;
+}
+.hijo{
+	display:block;
+	border-color: yellow;
+	width:40px;
+	height:40px;
+	background-color: yellow;
+	margin:5px;
+}
+
